@@ -1,4 +1,4 @@
-##Use label selectors to schedule Pods
+## Use label selectors to schedule Pods
 - 获取当前集群所有节点，并找到某个节点的标签
 
 ```
