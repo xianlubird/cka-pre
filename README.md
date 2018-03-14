@@ -7,3 +7,4 @@ The Cloud Native Computing Foundation is committed to growing the community of K
 ## Scheduling(5%)
 - [Use label selectors to schedule Pods](scheduling/scheduling-1.md)
 - [Understand the role of DaemonSets](scheduling/scheduling-2.md)
+- [Understand how resource limits can affect Pod scheduling](scheduling/scheduling-3.md)
