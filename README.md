@@ -11,3 +11,8 @@ The Cloud Native Computing Foundation is committed to growing the community of K
 - [Understand how to run multiple schedulers and how to configure Pods to use them](scheduling/scheduling-4.md)
 - [Manually schedule a pod without a scheduler](scheduling/scheduling-5.md)
 - [Display scheduler events](scheduling/scheduling-6.md)
+- [Know how to configure the Kubernets scheduler](scheduling/scheduling-7.md)
+
+## Logging/Monitoring
+- [Understand how to monitor all cluster components](logging-monitoring/logging-monitor-1.md)
+- [Understand how to monitor applications]((logging-monitoring/logging-monitor-2.md))
