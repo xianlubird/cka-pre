@@ -15,4 +15,6 @@ The Cloud Native Computing Foundation is committed to growing the community of K
 
 ## Logging/Monitoring
 - [Understand how to monitor all cluster components](logging-monitoring/logging-monitor-1.md)
-- [Understand how to monitor applications]((logging-monitoring/logging-monitor-2.md))
+- [Understand how to monitor applications](logging-monitoring/logging-monitor-2.md)
+- [Manage cluster component logs](logging-monitoring/logging-monitor-3.md)
+- [Manage application logs](logging-monitoring/logging-monitor-4.md)
