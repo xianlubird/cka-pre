@@ -18,3 +18,9 @@ The Cloud Native Computing Foundation is committed to growing the community of K
 - [Understand how to monitor applications](logging-monitoring/logging-monitor-2.md)
 - [Manage cluster component logs](logging-monitoring/logging-monitor-3.md)
 - [Manage application logs](logging-monitoring/logging-monitor-4.md)
+
+## Application Lifecycle Management
+- [Understand Deployment and how to perform rolling updates and rollbacks](application/application-1.md)
+- [Know various ways to configure applications](application/application-2.md)
+- [Know how to scale applications](application/application-3.md)
+- [Understand the primitivies necessary to create a self-healing application](application/application-4.md)
