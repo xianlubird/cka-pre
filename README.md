@@ -18,3 +18,11 @@ The Cloud Native Computing Foundation is committed to growing the community of K
 - [Understand how to monitor applications](logging-monitoring/logging-monitor-2.md)
 - [Manage cluster component logs](logging-monitoring/logging-monitor-3.md)
 - [Manage application logs](logging-monitoring/logging-monitor-4.md)
+
+## Storage
+- [Understand persistent volumes and know how to create them](storage/storage-1.md)
+- [Understand Access Modes for volumes](storage/storage-2.md)
+- [Understand persistent volume claims primitive](storage/storage-3.md)
+- [Understand Kubernetes Storage objects](storage/storage-4.md)
+- [How to cofnigure application with persistent storage](storage/storage-5.md)
+
