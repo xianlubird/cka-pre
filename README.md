@@ -26,3 +26,8 @@ The Cloud Native Computing Foundation is committed to growing the community of K
 - [Understand Kubernetes Storage objects](storage/storage-4.md)
 - [How to cofnigure application with persistent storage](storage/storage-5.md)
 
+## Application Lifecycle Management
+- [Understand Deployment and how to perform rolling updates and rollbacks](application/application-1.md)
+- [Know various ways to configure applications](application/application-2.md)
+- [Know how to scale applications](application/application-3.md)
+- [Understand the primitivies necessary to create a self-healing application](application/application-4.md)
