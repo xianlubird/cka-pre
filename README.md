@@ -31,3 +31,8 @@ The Cloud Native Computing Foundation is committed to growing the community of K
 - [Know various ways to configure applications](application/application-2.md)
 - [Know how to scale applications](application/application-3.md)
 - [Understand the primitivies necessary to create a self-healing application](application/application-4.md)
+
+## Security
+- [Know how to configure authentication and authorization](security/security-1.md)
+- [Understand Kubernets security primitives](security/security-2.md)
+- [Know to configure network policies](security/security-3.md)
