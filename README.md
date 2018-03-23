@@ -42,4 +42,6 @@ The Cloud Native Computing Foundation is committed to growing the community of K
 - [Know how to configure authentication and authorization](security/security-1.md)
 - [Understand Kubernets security primitives](security/security-2.md)
 - [Know to configure network policies](security/security-3.md)
-
+- [Create and manage TLS certificates for cluster components](security/security-4.md)
+- [Work with images securely](security/security-5.md)
+- [Defilne security context](security/security-6.md)
