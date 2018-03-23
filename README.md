@@ -45,3 +45,5 @@ The Cloud Native Computing Foundation is committed to growing the community of K
 - [Create and manage TLS certificates for cluster components](security/security-4.md)
 - [Work with images securely](security/security-5.md)
 - [Defilne security context](security/security-6.md)
+- [Secure persistent key value store](security/security-7.md)
+- [Work with role-based access control](security/security-8.md)
