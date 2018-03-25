@@ -19,13 +19,6 @@ The Cloud Native Computing Foundation is committed to growing the community of K
 - [Manage cluster component logs](logging-monitoring/logging-monitor-3.md)
 - [Manage application logs](logging-monitoring/logging-monitor-4.md)
 
-## Storage
-- [Understand persistent volumes and know how to create them](storage/storage-1.md)
-- [Understand Access Modes for volumes](storage/storage-2.md)
-- [Understand persistent volume claims primitive](storage/storage-3.md)
-- [Understand Kubernetes Storage objects](storage/storage-4.md)
-- [How to cofnigure application with persistent storage](storage/storage-5.md)
-
 ## Application Lifecycle Management
 - [Understand Deployment and how to perform rolling updates and rollbacks](application/application-1.md)
 - [Know various ways to configure applications](application/application-2.md)
@@ -47,3 +40,10 @@ The Cloud Native Computing Foundation is committed to growing the community of K
 - [Defilne security context](security/security-6.md)
 - [Secure persistent key value store](security/security-7.md)
 - [Work with role-based access control](security/security-8.md)
+
+## Storage
+- [Understand persistent volumes and know how to create them](storage/storage-1.md)
+- [Understand Access Modes for volumes](storage/storage-2.md)
+- [Understand persistent volume claims primitive](storage/storage-3.md)
+- [Understand Kubernetes Storage objects](storage/storage-4.md)
+- [How to cofnigure application with persistent storage](storage/storage-5.md)
