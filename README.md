@@ -52,3 +52,6 @@ The Cloud Native Computing Foundation is committed to growing the community of K
 - [Understanding the networking configuration on the cluster nodes](networking/network-1.md)
 - [Understand Pod networking concepts](networking/network-2.md)
 - [Understand service networking](networking/network-2.md)
+- [Deploy and configure network load balancer](networking/network-3.md)
+- [Know how to use Ingress rules](networking/network-4.md)
+
